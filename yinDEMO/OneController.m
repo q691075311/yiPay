@@ -23,6 +23,8 @@
     // Do any additional setup after loading the view.
     self.title = @"设备设置,激活";
     
+    //
+    
 }
 - (IBAction)debugging:(UIButton *)sender {
     /*
